@@ -13,7 +13,7 @@ export default function header() {
                 team that values innovation.
             </p>
         </div>
-        <div className="col-span-2 ml-10 mt-3 pl-10">
+        <div className="col-span-2 ml-10 mt-6 pl-5">
             <i className="fa-solid fa-envelope"></i><span className="text-xs m-2">wenfei@bu.edu</span><br/>
             <i className="fa-solid fa-mobile"></i><span className="text-xs m-2">617-369-2866</span><br />
             <i className="fa-solid fa-location-crosshairs"></i><span className="text-xs m-2">Boston,MASS</span><br />
