@@ -61,25 +61,25 @@ export default function Body() {
 
                 <div>
                     <p className="font-bold mt-2 mb-2">Interests:</p>
-                    <div className="flex">
+                    <div className="flex ml-5">
                         <img src='./ai.png' alt='ai' className="size-5 mb-2"/>
                         <p className="text-xs italic ml-3 mt-1">
                             Artificial Intelligence
                         </p>
                     </div>
-                    <div className="flex">
+                    <div className="flex ml-5">
                         <img src='./robotic.png' alt='robotic' className="size-5 rounded-lg"/>
                         <p className="text-xs italic ml-3 mt-1 ">
                             Robotics
                         </p>
                     </div>
-                    <div className="flex mt-2">
+                    <div className="flex mt-2 ml-5">
                         <img src='./travel.jpeg' alt='robotic' className="size-5 rounded-lg "/>
                         <p className="text-xs italic ml-3 mt-1 ">
                             Traveling
                         </p>
                     </div>
-                    <div className="flex mt-2">
+                    <div className="flex mt-2 ml-5">
                         <img src='./game.jpeg' alt='robotic' className="size-5 rounded-lg "/>
                         <p className="text-xs italic ml-3 mt-1 ">
                             Video Games
