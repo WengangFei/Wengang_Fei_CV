@@ -47,7 +47,7 @@ export default function Body() {
                 <div>
                     <p className="font-bold mt-2">Languages:</p>
                     <p className="text-xs italic ml-5">
-                        JavaScript, Python, HTML, CSS, C++, PHP.
+                        JavaScript, Python, HTML, CSS, C++, PHP, TypeScript.
                     </p>
                 </div>
 
