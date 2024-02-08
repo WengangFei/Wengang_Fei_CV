@@ -8,7 +8,7 @@ export default function Body() {
                 <li className="text-xs italic ml-5">BS in Computer Science</li>
                 <li className="text-xs italic ml-5">Boston University</li>
                 <li className="text-xs italic ml-5">09/2020 -- 05/2024</li>
-                <li className="text-xs italic ml-5">GPA: 3.5</li>
+                <li className="text-xs italic ml-5">GPA: 3.5/4</li>
                 <p className="font-bold mt-2">Main Coursework:</p>
                 <div className="grid grid-cols-2 gap-2">
                     <p className="bg-sky-500 rounded text-white text-xs pl-2">
