@@ -47,11 +47,7 @@ export default function Body() {
                 <div>
                     <p className="font-bold mt-2">Languages:</p>
                     <p className="text-xs italic ml-5">
-<<<<<<< HEAD
                         JavaScript, Python, HTML, CSS, C++, PHP, TypeScript.
-=======
-                        JavaScript, Python, HTML, CSS, C++, PHP.
->>>>>>> 338ad2b (Revert "ignored")
                     </p>
                 </div>
 
