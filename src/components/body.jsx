@@ -84,11 +84,21 @@ export default function Body() {
                         <p className="text-xs italic ml-3 mt-1 ">
                             Video Games
                         </p>
-                    </div>
-                    
+                    </div> 
                 </div>
 
+                <div>
+                    <p className="font-bold mt-2 mb-2">My Strength and Weakness:</p>
+                    <div className="flex ml-3">
+                        <p className="text-xs italic ml-3">
+                            I have always been a fast learner. I consider my habit of
+                            consistently learning something new as one of my strengths
+                            as I am always ready to take up new things. 
+                        </p>
+                    </div>   
+                </div>
             </div>
+
             <div>
                  <div>
                     <p className="font-bold mt-2">Personal Projects:</p>
