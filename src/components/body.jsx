@@ -95,7 +95,6 @@ export default function Body() {
                             consistently learning something new as one of my strengths
                             as I am always ready to take up new things. <br />
                             In particular I do not have much experience in this field,
-
                         </p>
                     </div>   
                 </div>
