@@ -94,7 +94,7 @@ export default function Body() {
                             I have always been a fast learner. I consider my habit of
                             consistently learning something new as one of my strengths
                             as I am always ready to take up new things. <br />
-                            In particular I do not have much experience in this field,
+                            In particular I do not have much experience in this field.
                         </p>
                     </div>   
                 </div>
@@ -130,17 +130,14 @@ export default function Body() {
 
                 <div>
                  <div>
-                    <p className="font-bold mt-2">Personal Projects:</p>
-                    <p className="text-xs font-bold text-sky-500 ml-5">
-                        Snowboard Group Website
-                    </p>
+                    <p className="font-bold mt-2">Statement:</p>
                     <p className="text-xs italic ml-5 indent-5">
-                        Now days, almost all websites are created  with many 
+                        Now days, almost all Web APPs are created  with many 
                         different libraries or frame works like React, Angular, etc. I have 
                         created some class related projects, personal projects  with these 
                         libraries and frameworks,they are all saved in my Github account
                         (Please take a look if you are interested), these projects are mainly 
-                        using JS and React, some projects from class were wrote by C++ , Python
+                        using JS and React, some projects from classes were wrote by C++ , Python
                         and JAVA. I'm a pragmatic person and enjoy to work on building websites
                         and solving the problems.
                     </p>
